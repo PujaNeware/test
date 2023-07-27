@@ -3,61 +3,61 @@
     "id": 1,
     "name": "Arpit",
     "username": "Appy",
-    "Percentage": "93",
+    "Percentage": "93"
 
   },
   {
     "id": 2,
     "name": "Puja",
     "username": "Puja",
-    "Percentage": "88",
+    "Percentage": "88"
   },
   {
     "id": 3,
     "name": "Akash",
     "username": "Akya",
-    "Percentage": "99",
+    "Percentage": "99"
   },
   {
     "id": 4,
     "name": "Sakshi",
     "username": "Sak",
-    "Percentage": "66",
+    "Percentage": "66"
   },
   {
     "id": 5,
      "name": "Vivek",
     "username": "V",
-    "Percentage": "77",
+    "Percentage": "77"
   },
   {
     "id": 6,
     "name": "Kshitij",
     "username": "Kshij",
-    "Percentage": "86",
+    "Percentage": "86"
   },
   {
     "id": 7,
      "name": "Yash",
     "username": "Yash",
-    "Percentage": "35",
+    "Percentage": "35"
   },
   {
     "id": 8,
      "name": "Sagar",
     "username": "Shaggy",
-    "Percentage": "90",
+    "Percentage": "90"
   },
   {
     "id": 9,
      "name": "Sharvari",
     "username": "Dipti",
-    "Percentage": "33",
+    "Percentage": "33"
   },
   {
     "id": 10,
      "name": "Mrunal",
     "username": "Mrun",
-    "Percentage": "73",
+    "Percentage": "73"
   }
 ]
